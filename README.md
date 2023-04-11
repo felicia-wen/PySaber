@@ -34,7 +34,7 @@ Secret ID:
 ╘════╧════════╧════════════════════════════════╧════════════════╧══════╧════════╧═════════════════════╧════════════╛
 ✔ Bookmarked RGB – YOASOBI
 ```
-# Let's Starting by your Spotify Playlist.
+# Starting by your Spotify Playlist.
 
 ![Spotify](./misc/spotify.png)
 
